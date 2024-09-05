@@ -4,7 +4,6 @@
 
 I am studying Software Engineering at the University of Canterbury. I am passionate about technology, learning, and building solutions. I want to learn or hone my skills across various programming languages, frameworks, and tools. I enjoy both software and hardware, especially when designing with each in mind.
 
-Let me know if you'd like further edits!
 ---
 
 ## 🌟 **What I Do**
