@@ -41,4 +41,4 @@ I’m always curious and eager to explore new technologies. Right now, I'm focus
 - **Email:** [john.elliott.ggd@outlook.com](mailto:john.elliott.ggd@outlook.com)
 - **LinkedIn:** [John Elliott](https://www.linkedin.com/in/john-elliott)
 
-Feel free to browse through my projects and reach out if you'd like
+Feel free to reach out to ask any questions.
