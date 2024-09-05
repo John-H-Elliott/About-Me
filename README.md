@@ -24,7 +24,7 @@ I love working on all aspects of development, from designing front-end interface
 - JetBrains IDEs (IntelliJ, PyCharm, etc.)
 - Linux OS
 - Trello (for project management)
-- Slack & Zoom (for communication)
+- Slack & Zoom (for project management)
   
 ---
 
